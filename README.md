@@ -1,5 +1,5 @@
 
-# EduAble – Inclusive EdTech Platform 🌐  
+# EduAble – Inclusive EdTech Platform 
 EduAble is an innovative e-learning platform designed to empower students with disabilities by leveraging AI-based accessibility features. It ensures an engaging and barrier-free educational journey through personalized learning experiences.  
 
 ---
